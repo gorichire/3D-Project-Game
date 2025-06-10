@@ -369,6 +369,7 @@
 -analyzer:"C:/Program Files/2022.3.7f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/2022.3.7f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Etc_/TutorialInfo/Scripts/Readme.cs"
+"Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/RigWeightSwitcher.cs"
 -langversion:9.0
 
